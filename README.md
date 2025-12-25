@@ -3,10 +3,7 @@
 This repository contains a study and analysis of a widely used open-source
 C++ thread pool implementation.
 
-## Original Source
-Author: progschj  
-Repository: https://github.com/progschj/ThreadPool  
-License: zlib
+
 
 ## Concepts Covered
 - Thread pools and thread reuse
